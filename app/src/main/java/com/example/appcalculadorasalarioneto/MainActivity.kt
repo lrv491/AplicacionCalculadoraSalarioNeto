@@ -66,7 +66,8 @@ class MainActivity : ComponentActivity() {
 
 }
 
-
+// URL del repositorio de Github es:
+// https://github.com/lrv491/AplicacionCalculadoraSalarioNeto.git
 @Composable
 fun NavegacionWeb(datos: Datos){
     // Controlador de navegacion
